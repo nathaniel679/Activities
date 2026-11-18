@@ -1,5 +1,5 @@
-Objective:
-Learn how to use variables and the Scanner class to accept input from the user and display personalized output.
+Objective:  
+Learn how to use variables and the Scanner class to accept input from the user and display personalized output.  
 
 
 Instructions:
