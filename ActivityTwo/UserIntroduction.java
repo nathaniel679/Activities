@@ -24,5 +24,6 @@ public class UserIntroduction {
 
         System.out.println("Nice to meet you, " + name + "!");
         System.out.println("You are " + age + " years old and love " + hobby + ".");
+        input.close();
     }
 }

@@ -36,6 +36,6 @@ public class SimpleCalculator {
     System.out.println("Product: " + multiplication);
     System.out.println("Quotient: " + updatedDivision);
     System.out.println("Remainder: " + modulo);
-    
+    input.close();
     }
 }
