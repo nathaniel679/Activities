@@ -26,5 +26,6 @@ public class LargestNumberFinder {
         } else {
             System.out.println("Two numbers are equal");
         }
+        input.close();
     }
 }
