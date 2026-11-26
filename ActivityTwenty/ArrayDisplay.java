@@ -3,7 +3,7 @@ package ActivityTwenty;
 public class ArrayDisplay {
     public static void main(String[] args) {
 
-        Integer[] numbers = { 12, 25, 37, 44, 59 };
+        int[] numbers = { 12, 25, 37, 44, 59 };
         System.out.println("Array Contents:");
         int counter = 0;
 
