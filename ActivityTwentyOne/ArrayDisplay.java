@@ -20,5 +20,6 @@ public class ArrayDisplay {
         for (int index = 0; index < numbers.length; index++) {
             System.out.println(numbers[index]);
         }
+        input.close();
     }
 }
